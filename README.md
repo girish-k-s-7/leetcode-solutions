@@ -11,6 +11,7 @@
 | [0344-reverse-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
