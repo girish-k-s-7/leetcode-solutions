@@ -26,6 +26,7 @@
 | [0053-maximum-subarray](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
