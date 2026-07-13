@@ -27,6 +27,7 @@
 | [0344-reverse-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1078-remove-outermost-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
