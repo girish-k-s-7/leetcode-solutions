@@ -28,6 +28,7 @@
 | [0205-isomorphic-strings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0812-rotate-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
