@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -28,6 +29,7 @@
 | [0205-isomorphic-strings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0812-rotate-string) |
@@ -135,6 +137,7 @@
 | [0119-pascals-triangle-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
