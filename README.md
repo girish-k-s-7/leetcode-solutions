@@ -22,6 +22,7 @@
 | [0392-is-subsequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -38,6 +39,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -147,6 +149,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Simulation
 |  |
 | ------- |
