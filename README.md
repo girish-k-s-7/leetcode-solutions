@@ -29,6 +29,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -57,6 +58,7 @@
 | [0031-next-permutation](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -91,6 +93,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0169-majority-element) |
@@ -116,6 +119,7 @@
 | ------- |
 | [0015-3sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0088-merge-sorted-array) |
