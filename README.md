@@ -25,6 +25,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -94,6 +95,7 @@
 | [0410-split-array-largest-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -145,6 +147,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -167,6 +170,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,6 +232,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -252,6 +257,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
