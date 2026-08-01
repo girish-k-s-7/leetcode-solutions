@@ -50,6 +50,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0742-to-lower-case](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
