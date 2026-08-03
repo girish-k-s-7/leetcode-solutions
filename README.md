@@ -283,6 +283,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
