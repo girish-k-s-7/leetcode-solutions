@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -289,6 +290,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
