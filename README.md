@@ -124,6 +124,7 @@
 | [0002-add-two-numbers](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -220,6 +221,7 @@
 | [0392-is-subsequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -317,9 +319,14 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
