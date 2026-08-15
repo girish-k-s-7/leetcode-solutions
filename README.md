@@ -86,6 +86,7 @@
 | [0040-combination-sum-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -355,6 +356,7 @@
 | [0022-generate-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -367,4 +369,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
