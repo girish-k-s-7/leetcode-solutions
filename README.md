@@ -42,6 +42,7 @@
 | [0008-string-to-integer-atoi](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -285,6 +286,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -373,6 +375,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Depth-First Search
 |  |
