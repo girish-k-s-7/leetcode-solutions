@@ -135,6 +135,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -303,6 +304,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie
 |  |
 | ------- |
@@ -407,4 +409,5 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
