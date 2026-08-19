@@ -102,6 +102,7 @@
 | [0078-subsets](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -411,7 +413,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
