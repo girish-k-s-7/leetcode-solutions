@@ -130,6 +130,7 @@
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -312,6 +313,7 @@
 | [0234-palindrome-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -426,6 +428,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
