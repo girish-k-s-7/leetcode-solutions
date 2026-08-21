@@ -53,6 +53,7 @@
 | [0125-valid-palindrome](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -151,6 +152,7 @@
 | [0048-rotate-image](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [1013-fibonacci-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2050-count-good-numbers) |
@@ -312,6 +314,7 @@
 | [0085-maximal-rectangle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0394-decode-string) |
