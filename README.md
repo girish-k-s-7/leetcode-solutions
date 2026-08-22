@@ -315,6 +315,7 @@
 | [0071-simplify-path](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
@@ -422,6 +423,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Algorithm X
 |  |
 | ------- |
@@ -457,4 +459,12 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0937-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
