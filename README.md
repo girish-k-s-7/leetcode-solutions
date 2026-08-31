@@ -129,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -178,6 +179,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0782-jewels-and-stones) |
@@ -328,6 +330,7 @@
 | [0234-palindrome-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0937-online-stock-span) |
@@ -457,6 +460,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
