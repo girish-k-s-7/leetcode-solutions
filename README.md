@@ -532,4 +532,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
