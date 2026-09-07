@@ -497,6 +497,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -515,6 +516,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -547,4 +549,8 @@
 | [0175-combine-two-tables](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
