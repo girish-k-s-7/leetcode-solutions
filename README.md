@@ -140,6 +140,7 @@
 | [0792-binary-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -336,6 +337,7 @@
 | [0739-daily-temperatures](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -470,6 +472,7 @@
 | [0739-daily-temperatures](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
@@ -508,6 +511,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -532,6 +536,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -573,4 +578,5 @@
 | [0450-delete-node-in-a-bst](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
