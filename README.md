@@ -71,6 +71,7 @@
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -192,6 +193,7 @@
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -243,6 +245,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -269,6 +272,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +335,7 @@
 | [0402-remove-k-digits](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -380,6 +385,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
