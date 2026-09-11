@@ -152,6 +152,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [1762-furthest-building-you-can-reach](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [2047-find-a-peak-element-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -337,6 +338,7 @@
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1762-furthest-building-you-can-reach](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [2032-largest-odd-number-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -387,6 +389,7 @@
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1762-furthest-building-you-can-reach](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 ## Bucket Sort
 |  |
 | ------- |
