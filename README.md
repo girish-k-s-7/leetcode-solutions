@@ -70,6 +70,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0782-jewels-and-stones) |
@@ -144,6 +145,7 @@
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -201,6 +203,7 @@
 | [0567-permutation-in-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -255,6 +258,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
@@ -317,6 +321,7 @@
 | [0547-number-of-provinces](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
 | ------- |
@@ -517,6 +522,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
@@ -635,6 +641,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1036-rotting-oranges) |
