@@ -417,6 +417,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1762-furthest-building-you-can-reach](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1762-furthest-building-you-can-reach) |
@@ -525,6 +526,7 @@
 | [0684-redundant-connection](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
@@ -645,6 +647,7 @@
 | [0684-redundant-connection](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -704,6 +707,7 @@
 | [0210-course-schedule-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -717,4 +721,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0127-word-ladder) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0744-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
