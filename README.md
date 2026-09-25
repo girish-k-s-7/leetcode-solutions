@@ -54,6 +54,7 @@
 | [0071-simplify-path](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
@@ -183,6 +184,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -629,6 +631,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -710,4 +713,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
