@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0189-rotate-array) |
