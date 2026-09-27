@@ -173,6 +173,7 @@
 | [0009-palindrome-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [1013-fibonacci-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -299,6 +300,7 @@
 | [0032-longest-valid-parentheses](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -480,6 +482,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
