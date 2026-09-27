@@ -1,23 +1,18 @@
 class Solution:
 
-    def solve(self, n, dp):
+    def climbStairs(self, n):
 
         if n <= 1:
             return 1
 
-        if dp[n] != -1:
-            return dp[n]
+        prev2 = 1
+        prev1 = 1
 
-        dp[n] = (
-            self.solve(n-1, dp)
-            +
-            self.solve(n-2, dp)
-        )
+        for i in range(2, n+1):
 
-        return dp[n]
+            curr = prev1 + prev2
 
-    def climbStairs(self, n):
+            prev2 = prev1
+            prev1 = curr
 
-        dp = [-1] * (n+1)
-
-        return self.solve(n, dp)
+        return prev1
