@@ -1,17 +1,25 @@
 class Solution:
-
     def isPalindrome(self, s):
+        left = 0
+        right = len(s) - 1
 
-        s = ''.join(ch.lower() for ch in s if ch.isalnum())
+        while left < right:
 
-        def check(left, right):
+            while left < right and not s[left].isalnum():
+                left += 1
 
-            if left >= right:
-                return True
+            while left < right and not s[right].isalnum():
+                right -= 1
 
-            if s[left] != s[right]:
+            if s[left].lower() != s[right].lower():
                 return False
 
-            return check(left + 1, right - 1)
+            left += 1
+            right -= 1
 
-        return check(0, len(s) - 1)
+        return True
+
+
+obj = Solution()
+s = "A man, a plan, a canal: Panama"
+print(obj.isPalindrome(s))
