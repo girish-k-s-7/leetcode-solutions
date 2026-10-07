@@ -39,6 +39,7 @@
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -162,6 +163,7 @@
 | [0792-binary-search](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1019-squares-of-a-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -274,6 +276,7 @@
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
