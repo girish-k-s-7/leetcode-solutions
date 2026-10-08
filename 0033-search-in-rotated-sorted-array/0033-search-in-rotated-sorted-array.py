@@ -1,6 +1,6 @@
 # search in rotated sorted array
 class Solution():
-    def search(slef, nums, target):
+    def search(self, nums, target):
         left = 0
         right = len(nums) -1
         while left <= right:
