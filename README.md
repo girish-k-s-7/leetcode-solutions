@@ -169,6 +169,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1603-running-sum-of-1d-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1762-furthest-building-you-can-reach](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1762-furthest-building-you-can-reach) |
@@ -370,6 +371,7 @@
 | [0410-split-array-largest-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
