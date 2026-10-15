@@ -153,6 +153,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -390,6 +391,7 @@
 | [0011-container-with-most-water](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/girish-k-s-7/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
