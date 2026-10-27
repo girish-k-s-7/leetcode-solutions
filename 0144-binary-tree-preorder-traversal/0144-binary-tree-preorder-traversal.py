@@ -1,22 +1,12 @@
 class Solution:
     def preorderTraversal(self, root):
+        result = []
+        def preorder(node):
+            if node is None:
+                return
+            result.append(node.val)
+            preorder(node.left)
+            preorder(node.right)
 
-        if not root:
-            return []
-
-        stack = [root]
-        preorder = []
-
-        while stack:
-
-            node = stack.pop()
-
-            preorder.append(node.val)
-
-            if node.right:
-                stack.append(node.right)
-
-            if node.left:
-                stack.append(node.left)
-
-        return preorder
+        preorder(root)
+        return result
